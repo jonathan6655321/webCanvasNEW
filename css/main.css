@@ -1,0 +1,8 @@
+.invisible {
+  visibility: hidden;
+}
+
+img {
+  position: absolute;
+  margin: auto;
+}
