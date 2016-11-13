@@ -11,3 +11,8 @@ img {
   margin-right: auto;
   max-width: 80vw;
 }
+
+video {
+  width: 100vw;
+  height: 100vh;
+}

@@ -20,7 +20,8 @@ function handleOrientation(event) {
   var beta     = event.beta;
   var gamma    = event.gamma;
 
-  if (gamma > 0 && gamma < 45) {
+  // if (gamma > 0 && gamma < 45) {
+  if (1==1){
     document.getElementById('image').classList.toggle('invisible', false);
   } else {
     document.getElementById('image').classList.toggle('invisible', true);
