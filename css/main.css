@@ -5,11 +5,13 @@
 
 #image {
   position: absolute;
-  width: 80vh;
-  transform: translate(0,0);
+  width: 500px;
+  float: left;
+  z-index: 5;
 }
 
 video {
   width: 100vw;
   height: 100vh;
+  float: left;
 }
