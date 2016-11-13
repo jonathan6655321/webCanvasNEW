@@ -6,9 +6,11 @@
 #image {
   position: absolute;
   width: 500px;
+  max-height: 300px;
   float: left;
   z-index: 5;
   top: 0;
+  left: 0;
 }
 
 video {
