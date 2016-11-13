@@ -2,7 +2,11 @@
   visibility: hidden;
 }
 
+.image {
+  vertical-align: middle;
+}
 img {
   position: absolute;
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
